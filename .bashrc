@@ -123,3 +123,7 @@ fi
 if [ -x /usr/bin/mint-fortune ]; then
      /usr/bin/mint-fortune
 fi
+
+GIT_PROMPT_ONLY_IN_REPO=1
+GIT_PROMPT_THEME=Single_line_Ubuntu
+source ~/projects/bash-git-prompt/gitprompt.sh

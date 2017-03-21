@@ -1,1 +1,3 @@
 Installera i3lock
+Klona repo på https://github.com/magicmonty/bash-git-prompt
+
