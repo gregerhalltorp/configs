@@ -1,0 +1,17 @@
+EditorConfig.EditorConfig
+HookyQR.beautify
+TwentyChung.jsx
+Zignd.html-css-class-completion
+alefragnani.Bookmarks
+andischerer.theme-atom-one-dark
+azemoh.one-monokai
+dbaeumer.vscode-eslint
+dzannotti.vscode-babel-coloring
+formulahendry.auto-close-tag
+freebroccolo.theme-atom-one-dark
+joshpeng.theme-onedark-sublime
+ms-vscode.Theme-MarkdownKit
+ms-vscode.csharp
+taichi.react-beautify
+xabikos.JavaScriptSnippets
+xabikos.ReactSnippets
