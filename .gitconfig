@@ -5,3 +5,8 @@
 	st = status
 	ci = commit
 	co = checkout
+	br = branch
+[credential]
+	helper = cache
+[core]
+	editor = vim

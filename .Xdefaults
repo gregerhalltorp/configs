@@ -1,0 +1,3 @@
+URxvt.reverseVideo:	True
+URxvt.font:		xft:Ubuntu Mono derivative Powerline:style=Thin:pixelsize=13
+URxvt.scrollstyle:	plain
