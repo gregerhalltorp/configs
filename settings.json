@@ -1,0 +1,61 @@
+{
+  "window.zoomLevel": -1,
+  "vsicons.projectDetection.disableDetect": true,
+  "files.associations": {
+    "*.jsx": "javascriptreact"
+  },
+  "extensions.autoUpdate": false,
+  "editor.tabSize": 2,
+  "workbench.activityBar.visible": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "vsicons.dontShowNewVersionMessage": true,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true,
+    "suppressWelcomeNotice": true
+  },
+  "gitlens.keymap": "alternate",
+  "editor.formatOnSaveTimeout": 1500,
+  "breadcrumbs.enabled": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.renderWhitespace": "selection",
+  "cSpell.userWords": [
+    "tcne"
+  ],
+  "cSpell.enabledLanguageIds": [
+    "latex",
+    "markdown",
+    "plaintext",
+    "text"
+  ],
+  "cSpell.ignorePaths": [
+    "**/package-lock.json",
+    "**/node_modules/**",
+    "**/vscode-extension/**",
+    "**/.git/objects/**",
+    ".vscode",
+    "yarn.lock"
+  ],
+  "calva.paredit.defaultKeyMap": "none",
+  "workbench.colorTheme": "Monokai",
+  "[xml]": {
+    "editor.defaultFormatter": "DotJoshJohnson.xml"
+  },
+  "[makefile]": {
+    "editor.insertSpaces": false,
+    "editor.tabSize": 8
+  },
+  "prettier.singleQuote": true,
+}
